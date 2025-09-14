@@ -21,7 +21,7 @@ cd DynamicBoard
 npm install
 npm run dev
 
-🔗 [Live Demo](https://your-deployment-url.com)
+🔗 [Live Demo](https://dynamic-board-psi.vercel.app/)
 
 
 Built with ❤️ by Megharaj Patil
