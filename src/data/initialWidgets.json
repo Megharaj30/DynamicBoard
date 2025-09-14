@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": "w1",
+          "name": "Security Score",
+          "text": "Score based on active scans and alerts"
+        },
+        {
+          "id": "w2",
+          "name": "Vulnerability Overview",
+          "text": "Critical, High, and Medium vulnerabilities count"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Inventory",
+      "widgets": []
+    }
+  ]
+}
